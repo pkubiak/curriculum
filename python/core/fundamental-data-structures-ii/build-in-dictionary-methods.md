@@ -130,7 +130,7 @@ new = ???.???(
 * `{}`
 * `fromkeys`
 * `0`
-* `dict`
+* `Dict`
 * `1`
 * `fromKeys`
 * `values`
